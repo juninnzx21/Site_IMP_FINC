@@ -3,8 +3,8 @@
 <head>
 	<meta http-equiv="X-UA-Compatible" content="IE=Edge">
 	<link href="https://fonts.googleapis.com/css?family=Roboto:300,400,700" rel="stylesheet">
-	<link rel="stylesheet" href="css/font-awesome.min.css">
-	<link rel="stylesheet" href="css/style.css">
+	<link rel="stylesheet" href="assets/css/font-awesome.min.css">
+	<link rel="stylesheet" href="assets/css/style.css">
 	<title>Danki Code - Agência de Marketing Digital | Florianópolis</title>
 	<meta charset="utf-8">
 	<meta name="keywords" content="agencia de marketing digital,agência de marketing,automação de marketing,criação de sites,páginas de venda,consultoria em marketing">
@@ -213,7 +213,7 @@
 	
 	<!----------------------------------------->
 	<!--TODO: CRIAR SCROLL PARA FORM DE CONTATO!-->
-	<script src="js/jquery.js"></script>
+	<script src="assets/js/jquery.js"></script>
 	<script>
 		$('nav.mobile h3').click(function(){
 			$('nav.mobile').find('ul').slideToggle();
