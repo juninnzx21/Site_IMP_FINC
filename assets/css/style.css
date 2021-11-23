@@ -39,7 +39,7 @@ header{
 .logo{
 	position: relative;
 	z-index: 2;
-	background-image: url('../images/.jpg');
+	background-image: url('../images/ssd.jpg');
 	background-size: 100% 100%;
 	float: left;
 	width: 132px;
@@ -512,8 +512,9 @@ padding-left: 10px;
 	}
 }
 
-}
+
 
 .box{
 	text-align: right;
 }
+
