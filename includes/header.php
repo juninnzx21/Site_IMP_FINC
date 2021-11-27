@@ -1,34 +1,18 @@
-<header>
-		<div class="container">
-			<div class="menu-topo">
-				<div class="logo"></div>
-				<nav class="desktop">
-					<ul>
-						<li><a href="">Sobre</a></li>
-						<li><a href="">Serviços</a></li>
-						<li><a href="">Contato</a></li>
-						<li class="btn-nav"><a href="">Quero um orçamento</a></li>
-					</ul>
-				</nav><!--desktop-->
-				<nav class="mobile">
-					<h3><i class="fa fa-bars"></i></h3>
-					<ul>
-						<li><a href="">Sobre</a></li>
-						<li><a href="">Serviços</a></li>
-						<li><a href="">Contato</a></li>
-						<li class="btn-nav"><a href="">Quero um orçamento</a></li>
-					</ul>
-				</nav><!--mobile-->
-				<div class="clear"></div>
-			</div><!--menu-topo-->
-			<div class="chamada-header">
-				<h2>Você vendendo mais<br />com automação web.</h2>
-				<p>Nós criamos soluções de marketing para sua empresa vender mais, da melhor forma.</p>
-				<!--form active campaign aqui-->
-				<form>
-					<input type="email" required="" placeholder="Seu e-mail...">
-					<input type="submit" name="acao" value="Quero saber mais!">
-				</form>
-			</div>
-		</div><!--container-->
-	</header>
+<nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+    <div class="container-fluid">
+        <a class="navbar-brand" href="<?=$url?>">
+            <img src="<?=$url?>assets/images/l.png" alt="" class="img-fluid" style="max-height: 80px">
+        </a>
+        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavAltMarkup"
+            aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
+            <div class="navbar-nav">
+                <a class="nav-link active" aria-current="page" href="#">Home</a>
+                <a class="nav-link" href="pages/sobre.php">Sobre</a>
+                <a class="nav-link" href="#">Serviços</a>
+            </div>
+        </div>
+    </div>
+</nav>
