@@ -1,6 +1,6 @@
 <?php
-$email      = 'meuemail@gmail.com';
-$email_send = 'suporte@seusite.com';
+$email      = 'multicredbh.multicredbh@gmail.com';
+$email_send = 'smtp@multicredbh.com.br';
 
 use PHPMailer\PHPMailer\PHPMailer;
 use PHPMailer\PHPMailer\Exception;
@@ -12,11 +12,11 @@ require '../phpmailer/src/SMTP.php';
 function enviar($para, $de, $de_nome, $assunto, $corpo)
 {
       global $error;
-      $username   = 'c9ab40856b2a55';
-      $pass       = '68b1462e305adc';
-      $host       = 'smtp.mailtrap.io';
-      $port       = '2525';//456
-      $secure     = 'tls';//ssl
+      $username   = "smtp@multicredbh.com.br";//'c9ab40856b2a55';
+      $pass       = "qM!*j!9^L0Mm";//'68b1462e305adc';
+      $host       = "mail.multicredbh.com.br";//'smtp.mailtrap.io';
+      $port       = "465";//'2525';
+      $secure     = 'ssl';
 
       $mail = new PHPMailer();
       $mail->IsSMTP();    // Ativar SMTP
