@@ -1,5 +1,5 @@
 <footer class="text-light p-3 bg-dark animate__animated animate__fadeInBottomLeft">
-    <div class="row mt-5 m-auto">
+    <div class="row mt-4 m-auto">
         <div class="row">
             <div class="col-xl-3 col-sm-12 box-footer ">
                 <h5 class="text-center">Endereço</h5>
@@ -23,7 +23,7 @@
                 <a class="nav-link text-center text-white" href="<?=$url?>pages/atendimento-ao-cliente.php">Atendimento
                     ao
                     Cliente</a>
-                <h5 class="text-center text-">Receba nossas novidades</h5>
+                <h5 class="text-center text-">Receba nossas news</h5>
                 <form method="post" action="<?=$url?>includes/process2.php">
                     <div class="input-group mb-3">
                         <input name='email' class="form-control" placeholder="E-mail..." type="email">
