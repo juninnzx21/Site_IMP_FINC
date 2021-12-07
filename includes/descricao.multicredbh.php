@@ -6,7 +6,7 @@
             proporciona nossos clientes a oportunidade da diminuicao de parcelas a serem pagas,
             auxiliamos nossos clientes a conquistarem o que realmente é de direito em taxas mais baixas,
             a <b>MulticredBH</b> traz soluções que ajudam os nossos clientes a formalizarem suas dividas em minimos de
-            parcelas e juros reduzidos atraves da portabilidade enseridade na lei de <b>80078 / 1990.</b>
+            parcelas e juros reduzidos atraves da portabilidade enseridade na lei de <b>8.078 / 1990.</b>
         </h5>
     </div>
 
