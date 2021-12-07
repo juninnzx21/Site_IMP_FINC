@@ -1,7 +1,7 @@
 <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
     <div class="container-fluid">
         <a class="navbar-brand" href="<?=$url?>">
-            <img src="<?=$url?>assets/images/l.png" alt="" class="img-fluid" style="max-height: 80px">
+            <img src="<?=$url?>assets/images/l.png" class="img-fluid" style="max-height: 80px">
         </a>
         <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavAltMarkup"
             aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
@@ -9,10 +9,22 @@
         </button>
         <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
             <div class="navbar-nav">
-                <a class="nav-link active" aria-current="page" href="#">Home</a>
-                <a class="nav-link" href="pages/sobre.php">Sobre</a>
-                <a class="nav-link" href="#">Serviços</a>
+                <a class="nav-link" href="<?=$url?>">Inicio</a>
+                <a class="nav-link" href="<?=$url?>pages/sobre.php">Sobre</a>
+                <a class="nav-link" href="<?=$url?>pages/servicos1.php">Serviços</a>
+                <a class="nav-link" href="<?=$url?>pages/atendimento-ao-cliente.php">Atendimento ao
+                    Cliente</a>
             </div>
         </div>
-    </div>
+
+        <div>
+            <font color='white'>Converse Com um de nossos atendentes nas redes sociais a seguir!</font>
+            <a href='https://www.facebook.com/multicredbh'><img src="<?=$url?>assets/images/facebook.png"
+                    style="max-height: 40px"></a>
+            <a href='https://www.instagram.com/multicredbh/'><img src="<?=$url?>assets/images/instagram.png" alt=""
+                    class="img-fluid" style="max-height: 40px"></a>
+            <a href='https://wa.me/5531991739320'><img src="<?=$url?>assets/images/whatsapp.png" alt=""
+                    class="img-fluid" style="max-height: 40px"></a>
+
+        </div>
 </nav>

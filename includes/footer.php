@@ -1,28 +1,43 @@
-<footer>
+<footer class="text-light p-3 bg-dark animate__animated animate__fadeInBottomLeft">
     <div class="row mt-5 m-auto">
-        <div class="row" >
-			<div class="col-xl-3 col-sm-12 box-footer ">
-                <h2 class="text-center">Endereço</h2>
-                <p class="text-center">Rua Conceição Macedo de Novais, 140 - Cidade Nova, Belo Horizonte-MG, 31170160, Brasil</p>
-            </div>
-        	<div class="col-xl-3 col-sm-12 box-footer">
-                <h2 class="text-center">Telefone</h2>
-				<p class="text-center">(31)2333-0152</p>
-            </div>
-            <div class="col-xl-3 col-sm-12 box-footer">
-                <h2 class="text-center">Whatsapp</h2>
-				<p class="text-center">(31)2333-0152</p>
-				<p class="text-center">(31)2333-0152</p>
-				<p class="text-center">(31)2333-0152</p>
+        <div class="row">
+            <div class="col-xl-3 col-sm-12 box-footer ">
+                <h5 class="text-center">Endereço</h5>
+                <p class="text-center">Rua Conceição Macedo de Novais, 140 - Cidade Nova, Belo Horizonte-MG, 31170160,
+                    Brasil</p>
+                <p class="text-center">Av. Amador Bueno da Veiga, 2032 - Penha de FrançaSão Paulo - SP, 03636-100,
+                    Brasil</p>
             </div>
             <div class="col-xl-3 col-sm-12 box-footer">
-                <h2 class="text-center">Receba nossas news</h2>
-                <form>
-                    <input placeholder="E-mail..." type="text" /><button type="submit"><i
-                            class="fa fa-paper-plane-o"></i></button>
+                <h5 class="text-center">Telefone</h5>
+                <p class="text-center">(31)2333-0152</p>
+            </div>
+            <div class="col-xl-3 col-sm-12 box-footer">
+                <h5 class="text-center">Whatsapp</h5>
+                <p class="text-center">(31) 9 91739320</p>
+                <p class="text-center">(31) 9 93724978</p>
+                <!--<p class="text-center">(31) 9 99999999</p>-->
+            </div>
+            <div class="col-xl-3 col-sm-12 box-footer">
+
+                <a class="nav-link text-center text-white" href="<?=$url?>pages/atendimento-ao-cliente.php">Atendimento
+                    ao
+                    Cliente</a>
+                <h5 class="text-center text-">Receba nossas news</h5>
+                <form method="post" action="<?=$url?>includes/process2.php">
+                    <div class="input-group mb-3">
+                        <input name='email' class="form-control" placeholder="E-mail..." type="email">
+                        <button type="submit" class="btn btn-primary"><i class="fa fa-paper-plane-o"></i></button>
+                    </div>
+
+
                 </form>
             </div>
         </div>
+    </div>
+    <hr>
+    <p class="p-2 text-center">© <?= date('Y')?>. Todos os direitos reservados. Multicredbh Crédito Financiamento e
+        Investimento.</p>
 </footer>
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js"
@@ -42,6 +57,11 @@ $('nav.mobile h3').click(function() {
     $('nav.mobile').find('ul').slideToggle();
 })
 </script>
+<script src="js/core.min.js"></script>
+<script src="js/script.js"></script>
+<div class="snackbars" id="form-output-global"></div>
+
+
 </body>
 
 </html>

@@ -1,20 +1,36 @@
+<hr>
+<section class="portfolio ">
+    <div class="container text-center my-4">
 
-	<section class="portfolio">
-		<div class="container">
-			<h2>Algumas empresas que tivemos a oportunidade de atuar.</h2>
-			<div class="empresas">
-				<div class="empresa-single">
-					<img src="assets/images/bianchini.png" />
-				</div><!--empresa-single-->
-				<div class="empresa-single">
-					<img src="assets/images/rancho.png" />
-				</div><!--empresa-single-->
-				<div class="empresa-single">
-					<img src="assets/images/hoepcke.png" />
-				</div><!--empresa-single-->
-				<div class="empresa-single">
-					<img src="assets/images/monguilhott.png" />
-				</div><!--empresa-single-->
-			</div><!--empresas-->
-		</div>
-	</section>
+        <h2>Algumas pessoas que tivemos a oportunidade de ajudar.</h2>
+
+        <div class="row">
+            <div class="col">
+                <div class="ratio ratio-1x1">
+                    <iframe src="https://www.youtube.com/embed/JPkmJPpi6XI?controls=0"></iframe>
+                </div>
+            </div>
+            <div class="col">
+                        <div class="ratio ratio-1x1">
+                            <iframe width="560" height="315"
+                                src="https://www.youtube-nocookie.com/embed/juQHooH0en8?controls=0"></iframe>
+                        </div>
+                </div>
+                <div class="col">
+                    <div class="ratio ratio-1x1">
+                        <iframe src="https://www.youtube.com/embed/Fy8hghDf8fw?controls=0&amp;start=2"></iframe>
+                    </div>
+                </div>
+                <div class="col">
+                    <div class="ratio ratio-1x1">
+                        <iframe width="560" height="315"
+                            src="https://www.youtube-nocookie.com/embed/yFqZZ5yBKdM?controls=0"></iframe>
+                    </div>
+                </div>
+
+            </div>
+
+        </div>
+
+
+</section>
