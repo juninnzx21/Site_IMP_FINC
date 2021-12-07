@@ -23,7 +23,7 @@
                 <a class="nav-link text-center text-white" href="<?=$url?>pages/atendimento-ao-cliente.php">Atendimento
                     ao
                     Cliente</a>
-                <h5 class="text-center text-">Receba nossas news</h5>
+                <h5 class="text-center text-">Receba nossas novidades</h5>
                 <form method="post" action="<?=$url?>includes/process2.php">
                     <div class="input-group mb-3">
                         <input name='email' class="form-control" placeholder="E-mail..." type="email">
