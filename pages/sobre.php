@@ -2,9 +2,6 @@
 $url = "http://127.0.0.1/site/";
 ?>
 
-<?php include '../includes/head.php'; ?>
-<?php include '../includes/header.php'; ?>
-
 <h1 class="text-Black fw-bold  p-3 container navbar navbar-expand-lg navbar-shadow "> Sobre </h1>
 <div>
 

@@ -1,7 +1,5 @@
 <?php
 include 'time_config.php';
-
-$url = "https://www.multicredbh.com.br/";
 ?>
 <!DOCTYPE html>
 <html >
@@ -9,7 +7,7 @@ $url = "https://www.multicredbh.com.br/";
 <head>
     <meta http-equiv="X-UA-Compatible" content="IE=Edge">
     <link href="https://fonts.googleapis.com/css?family=Roboto:300,400,700" rel="stylesheet">
-    <link rel="stylesheet" href="<?=$url?>assets/css/font-awesome.min.css">
+    <link rel="stylesheet" href="<?=base_url()?>assets/css/font-awesome.min.css">
     <!-- <link rel="stylesheet" href="assets/css/style.css"> -->
     <title>MulticredBH</title>
     <meta charset="utf-8">
