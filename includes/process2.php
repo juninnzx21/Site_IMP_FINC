@@ -6,6 +6,7 @@ include 'config_email.php';
 $body = '<h3 style="color:red">Novo cadastro.</h3>';
 $body .= 'E-mail: '   . $_POST['email']    .'<br>';
 
+var_dump($body);
 
 # echo $body;
 

@@ -24,7 +24,7 @@
             </div>
             <div class="col-xl-6  col-sm-12">
 
-                <img alt="Tabalho MulticredBH" title="MulticredBH"
+                <img class="img-fluid" alt="Tabalho MulticredBH" title="MulticredBH"
                     src="https://scontent.fplu4-1.fna.fbcdn.net/v/t39.30808-6/262107661_123890373421421_1091016302747462806_n.png?_nc_cat=103&ccb=1-5&_nc_sid=973b4a&_nc_ohc=uqf8zwXKqQQAX_DbC8H&_nc_ht=scontent.fplu4-1.fna&oh=73131b07118d9f9433cacf890e6de9f1&oe=61AFC5B9"
                     style="max-height:600px" />
             </div>
