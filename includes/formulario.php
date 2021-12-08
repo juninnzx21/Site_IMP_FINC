@@ -5,7 +5,7 @@
 
 
 
-<section class="formulario">
+<!--<section class="formulario">
     <div class="container mt-3">
         <hr>
         <div class=" text-center">
@@ -37,3 +37,4 @@
         </form>
     </div>
 </section>
+-->
