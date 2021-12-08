@@ -2,15 +2,6 @@
 $url = "http://127.0.0.1/site/";
 ?>
 
-<div>
-    <?php include '../includes/head.php'; ?>
-    <?php include '../includes/header.php'; ?>
-</div>
-
-
-
-
-
 <div class="container text-black fw-bold text-center animate__animated animate__fadeInBottomLeft">
     <h1>Serviços</h1>
     <h3>Veja os serviços e podemos ofertar a você !<br /><i class=" fa fa-angle-down"></i></h3>
@@ -2306,7 +2297,4 @@ $url = "http://127.0.0.1/site/";
     </div>
 </div>
 
-<div class='p-3'>
-    <?php include '../includes/footer.php';?>
-</div>
 </section>

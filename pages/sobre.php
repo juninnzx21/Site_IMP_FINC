@@ -2,14 +2,11 @@
 $url = "http://127.0.0.1/site/";
 ?>
 
-<?php include '../includes/head.php'; ?>
-<?php include '../includes/header.php'; ?>
-
 <h1 class="text-Black fw-bold  p-3 container navbar navbar-expand-lg navbar-shadow "> Sobre </h1>
 <div>
 
     <div class="text-white container bg-dark">
-        <p >
+        <p>
             <b>
                 A EMPRESA
             </b>
@@ -51,7 +48,7 @@ $url = "http://127.0.0.1/site/";
 
         <div class="p-3">
             <p>
-                <a href="<?=$url?>" class="btn btn-primary shadow" >Voltar ao Inicio  <img src="../assets/images/voltar.png" style="max-height: 25px"></a>
+                <a href="<?=$url?>" class="btn btn-primary shadow">Voltar ao Inicio <i class="fas fa-arrow-left"></i></a>
             </p>
         </div>
         </p>
@@ -61,10 +58,6 @@ $url = "http://127.0.0.1/site/";
 
 
 
-
-<div>
-    <?php include '../includes/footer.php';?>
-</div>
 
 
 
