@@ -1,10 +1,10 @@
 <?php
 include 'time_config.php';
 
-$url = "http://127.0.0.1/site/";
+$url = "https://www.multicredbh.com.br/";
 ?>
 <!DOCTYPE html>
-<html >
+<html>
 
 <head>
     <meta http-equiv="X-UA-Compatible" content="IE=Edge">
