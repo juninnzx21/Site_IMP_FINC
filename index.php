@@ -12,9 +12,9 @@ if (file_exists($file)) {
     //mostrar em todas as paginas
     include 'includes/head.php';
     include 'includes/header.php';
-   
+    
     include $file;
-
+    
     include 'includes/footer.php';
 }
 else{

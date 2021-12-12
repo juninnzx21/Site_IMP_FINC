@@ -87,7 +87,8 @@
                             <div class="modal-dialog modal-dialog-scrollable">
 
                                 <p>
-                                    <b>Custo Baixo-</b> Quando comparado com financiamento imobiliário, o consórcio é bem vantajoso
+                                    <b>Custo Baixo-</b> Quando comparado com financiamento imobiliário, o consórcio é
+                                    bem vantajoso
                                     pois, não há cobrança de entrada, nem de juros, apenas taxa...
 
                                 </p>
@@ -144,6 +145,12 @@
         </div>
     </div class="p-3">
 </div>
+
+
+
+
+
+
 
 <!-- Modal Credito Pessoal -->
 <div class="modal fade" id="Crédito-Pessoal" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
