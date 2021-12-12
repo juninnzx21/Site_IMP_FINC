@@ -1,7 +1,3 @@
-<?php
-$url = "http://127.0.0.1/site/";
-?>
-
 <h1 class="text-Black fw-bold  p-3 container navbar navbar-expand-lg navbar-shadow "> Sobre </h1>
 <div>
 
@@ -48,7 +44,7 @@ $url = "http://127.0.0.1/site/";
 
         <div class="p-3">
             <p>
-                <a href="<?=$url?>" class="btn btn-primary shadow">Voltar ao Inicio <i class="fas fa-arrow-left"></i></a>
+                <a href="<?=base_url()?>" class="btn btn-primary shadow">Voltar ao Inicio <i class="fas fa-arrow-left"></i></a>
             </p>
         </div>
         </p>

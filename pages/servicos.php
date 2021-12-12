@@ -1,7 +1,3 @@
-<?php
-$url = "http://127.0.0.1/site/";
-?>
-
 <div class="container text-black fw-bold text-center animate__animated animate__fadeInBottomLeft">
     <h1>Serviços</h1>
     <h3>Veja os serviços e podemos ofertar a você !<br /><i class=" fa fa-angle-down"></i></h3>
@@ -11,7 +7,7 @@ $url = "http://127.0.0.1/site/";
         <div class="row">
             <div class="col-xl-4 col-sm-12">
                 <div class="card shadow" style="width: 18rem;">
-                    <img src="<?=$url?>assets/images/img3.jpg" class="card-img-top" alt="...">
+                    <img src="<?=base_url()?>assets/images/img3.jpg" class="card-img-top" alt="...">
                     <div class="card-body">
                         <h5 class="card-title">Crédito Pessoal</h5>
                         <p class="card-text"><b>O que é empréstimo pessoal ?</b>
@@ -32,7 +28,7 @@ $url = "http://127.0.0.1/site/";
 
             <div class="col-xl-4 col-sm-12">
                 <div class="card shadow" style="width: 18rem;">
-                    <img src="<?=$url?>assets/images/img3.jpg" class="card-img-top" alt="...">
+                    <img src="<?=base_url()?>assets/images/img3.jpg" class="card-img-top" alt="...">
                     <div class="card-body">
                         <h5 class="card-title">Consórcio de Veículo</h5>
                         <p class="card-text">
@@ -53,7 +49,7 @@ $url = "http://127.0.0.1/site/";
 
             <div class="col-xl-4 col-sm-12">
                 <div class="card shadow" style="width: 18rem;">
-                    <img src="<?=$url?>assets/images/img3.jpg" class="card-img-top" alt="...">
+                    <img src="<?=base_url()?>assets/images/img3.jpg" class="card-img-top" alt="...">
                     <div class="card-body">
                         <h5>Crédito Consignado</h5>
                         <p><b>Oque é Crédito Consignado ?</b></p>
@@ -82,7 +78,7 @@ $url = "http://127.0.0.1/site/";
 
             <div class="mt-5 col-xl-4 col-sm-12">
                 <div class="card shadow" style="width: 18rem;">
-                    <img src="<?=$url?>assets/images/img3.jpg" class="card-img-top" alt="...">
+                    <img src="<?=base_url()?>assets/images/img3.jpg" class="card-img-top" alt="...">
                     <div class="card-body">
                         <h5 class="card-title">Consórcio Imobiliario</h5>
                         <p class="card-text"><b>Porque você deve fazer consórcio Imobiliario?</b></p>
@@ -91,10 +87,8 @@ $url = "http://127.0.0.1/site/";
                             <div class="modal-dialog modal-dialog-scrollable">
 
                                 <p>
-                                    <b>
-                                        Custo Baixo-
-                                    </b> Quando comparado com financiamento imobiliário, o consórcio é bem vantajoso
-                                    pois, não há cobrança de entrada, nem de juros, apenas taxa de administração...
+                                    <b>Custo Baixo-</b> Quando comparado com financiamento imobiliário, o consórcio é bem vantajoso
+                                    pois, não há cobrança de entrada, nem de juros, apenas taxa...
 
                                 </p>
                             </div>
@@ -107,7 +101,7 @@ $url = "http://127.0.0.1/site/";
 
             <div class="mt-5 col-xl-4 col-sm-12">
                 <div class="card shadow" style="width: 18rem;">
-                    <img src="<?=$url?>assets/images/img3.jpg" class="card-img-top" alt="...">
+                    <img src="<?=base_url()?>assets/images/img3.jpg" class="card-img-top" alt="...">
                     <div class="card-body">
                         <h5 class="card-title">Refinanciamento</h5>
                         <p>
@@ -129,7 +123,7 @@ $url = "http://127.0.0.1/site/";
 
             <div class="mt-5 col-xl-4 col-sm-12">
                 <div class="card shadow" style="width: 18rem;">
-                    <img src="<?=$url?>assets/images/img3.jpg" class="card-img-top" alt="...">
+                    <img src="<?=base_url()?>assets/images/img3.jpg" class="card-img-top" alt="...">
                     <div class="card-body">
                         <h5 class="card-title">Portabilidade</h5>
                         <p class="card-text">

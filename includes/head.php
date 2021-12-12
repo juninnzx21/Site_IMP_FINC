@@ -5,6 +5,7 @@ include 'time_config.php';
 <html>
 
 <head>
+
     <meta http-equiv="X-UA-Compatible" content="IE=Edge">
     <link rel="shortcut icon" href="<?= base_url();?>assets/images/l.png" type="image/x-icon" />
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.2/css/all.min.css"
