@@ -1,5 +1,5 @@
-<footer class="text-light p-3 bg-dark animate__animated animate__fadeInBottomLeft">
-    <div class="row mt-4 m-auto">
+<footer class="text-light p-3 mt-4 bg-dark animate__animated animate__fadeInBottomLeft">
+    <div class="row  m-auto">
         <div class="row">
             <div class="col-xl-3 col-sm-12 box-footer ">
                 <h5 class="text-center">Endereço</h5>

@@ -16,9 +16,7 @@
                             O crédito pessoal nada mais é do que <b>uma determinada quantia, concedida por uma
                                 instituição
                                 bancária ou financeira, que tem como maior diferencial a liberdade para o seu uso. </b>
-                            Isso
-                            significa que você não precisa dizer como gastará essa verba, como acontece com os
-                            financiamentos...
+
                         </p>
                         <a href="" class="btn btn-primary" data-bs-toggle="modal"
                             data-bs-target="#Crédito-Pessoal">Saiba mais...</a>
