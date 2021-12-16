@@ -17,15 +17,4 @@
             </div>
         </div>
 
-        <div>
-            <font color='white'>Converse Com um de nossos atendentes nas redes sociais a seguir!</font>
-            <a href='https://www.facebook.com/multicredbh'><img src="<?=base_url()?>assets/images/facebook.png"
-                    style="max-height: 40px"></a>
-            <a href='https://www.instagram.com/multicredbh/'><img src="<?=base_url()?>assets/images/instagram.png" alt=""
-                    class="img-fluid" style="max-height: 40px"></a>
-            <a
-                href='https://api.whatsapp.com/send?phone=553191739320&text=Ol%C3%A1%20MulticredBH%20vim%20pelo%20site%2C%20quero%20adquirir%20meu%20orçamento%20agora!'><img
-                    src="<?=base_url()?>assets/images/whatsapp.png" alt="" class="img-fluid" style="max-height: 40px"></a>
-
-        </div>
 </nav>
