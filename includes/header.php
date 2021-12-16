@@ -11,7 +11,7 @@
             <div class="navbar-nav">
                 <a class="nav-link" href="<?=base_url()?>">Inicio</a>
                 <a class="nav-link" href="<?=base_url()?>sobre">Sobre</a>
-                <a class="nav-link" href="<?=base_url()?>servicos1">Serviços</a>
+                <a class="nav-link" href="<?=base_url()?>servicos">Serviços</a>
                 <a class="nav-link" href="<?=base_url()?>atendimento-ao-cliente">Atendimento ao
                     Cliente</a>
             </div>
