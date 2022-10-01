@@ -12,7 +12,7 @@
     <div max-widith='80px'>
         <div class="carousel-inner">
             <div class="carousel-item active">
-                <img src="https://www.claro.com.br/imagem/img-destaque-horizontal-fatura-digital-debito-automatico-1509138110869.png"
+                <img src="https://img.olhardigital.com.br/wp-content/uploads/2021/05/Espelhar-tela-1000x450.jpg"
                     class="d-block w-100" alt="...">
                 <div class="carousel-caption d-none d-md-block">
                     <h6>Tudo que voce precisa bem nas suas maos !</h6>
