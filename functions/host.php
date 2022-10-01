@@ -10,7 +10,7 @@ if ($_SERVER['SERVER_NAME'] === $_SERVER['HTTP_HOST'] && $_SERVER['HTTP_HOST'] =
 }else{
     # servidor
     function base_url(){
-        return 'https://multicredbh.com.br/';
+        return 'https://multicred.herokuapp.com/';
     }
 }
   
