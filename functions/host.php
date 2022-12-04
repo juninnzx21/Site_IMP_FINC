@@ -5,7 +5,7 @@ if ($_SERVER['SERVER_NAME'] === $_SERVER['HTTP_HOST'] && $_SERVER['HTTP_HOST'] =
     # localhost
     function base_url()
     {
-        return 'http://localhost/site/';
+        return 'https://geraldosdsh.github.io/Site_IMP_FINC/';
     }
 }else{
     # servidor
